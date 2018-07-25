@@ -1,14 +1,13 @@
 Frank
 
-BEGINBYFRANK
 Begin
 FrankAdded
 
-REALEND
 
 PRELUDE
 Begin
 
+FRANKEND
 END
 
 
