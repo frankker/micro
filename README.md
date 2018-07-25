@@ -1,5 +1,6 @@
 Frank
+BEGINBYFRANK
 Begin
 FrankAdded
-END
+
 REALEND
