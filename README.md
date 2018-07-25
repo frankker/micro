@@ -1,10 +1,7 @@
 BEGINNING
 
 
-
-
-
-****EndByFrank at 9pm****
+Before end
 END
 
 
