@@ -1,8 +1,3 @@
-BEGINNING
 Frank start
-
-Before end
+Begin
 END
-
-
-REAL END
