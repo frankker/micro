@@ -1,5 +1,9 @@
+BEGINNING
+
 frank
-AAAAAAAA
+
+MIDDLE
+
 master
 
 
